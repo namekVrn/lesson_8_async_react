@@ -1,0 +1,10 @@
+.phonelist{
+    width: 50%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    overflow-y: hidden;
+}
+.phonelist__listItem{
+    overflow-y: scroll;
+}

@@ -1,0 +1,26 @@
+.form{
+    width: 50%;
+    height: 100vh;
+    border: 1px solid rgb(107, 139, 180);
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.formPhome__input--name,.formPhome__input--tel {
+    padding: 10px;
+    color: rgb(49, 49, 49);
+    font-size: 33px;
+    width: 400px;
+    outline: none;
+    border: none;
+    margin-bottom: 15px;
+    border-bottom: 1px dotted rgb(107, 139, 180);
+}
+.formPhone__btn{
+    padding: 15px;
+    font-size: 33px;
+    border-radius: 6px;
+    border: 1px dotted rgb(107, 139, 180) ;
+}

@@ -1,0 +1,14 @@
+.searchInput{
+    display: flex;
+    flex-direction: column;
+    border: 1px dotted  rgb(107, 139, 180);
+    padding: 15px;
+}
+.searchInput__filter{
+    padding: 15px;
+    border-radius: 6px;
+    outline: none;
+    
+}
+
+

@@ -1,0 +1,12 @@
+.itemPhone{
+    overflow-y: hidden;
+}
+.itemPhone__item{
+    border: 1px dotted rgb(107, 139, 180);
+    border-radius: 6px;
+    margin-bottom: 10px;
+    display: flex;
+}
+.itemPhone__item--name,.itemPhone__item--phone,.itemPhone__item--date{
+    width: calc(100%/3);
+}
